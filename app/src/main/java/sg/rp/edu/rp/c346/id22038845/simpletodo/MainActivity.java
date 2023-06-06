@@ -144,11 +144,6 @@ public class MainActivity extends AppCompatActivity {
                             }
                         });
                 popup.show();
-
-
-
-
-                //Toast.makeText(MainActivity.this, text, Toast.LENGTH_SHORT).show();
             }
         });
 
